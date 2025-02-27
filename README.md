@@ -25,7 +25,4 @@ Issues Faced:
 - Handling formula evaluations efficiently
 - Ensuring proper database relationships between spreadsheets and cells
 - Fix the Thymeleaf template error by ensuring proper data binding
-- Implement a robust solution for formula evaluation
-- Add user authentication and access control
-- Improve UI with better styling and interactivity
-- Optimize database queries for performance
+
